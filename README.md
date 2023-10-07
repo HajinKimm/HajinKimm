@@ -2,7 +2,6 @@
 
 안녕하세요! 회사와 함께 발전하고 싶은 열정있는 프론트엔드 신입개발자입니다!
 
-[![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HajinKimm&hide=stars)](https://github.com/HajinKimm/github-readme-stats)
 
 📚 Studying
 
@@ -14,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajinKimm&layout=compact&min-height=170)](https://github.com/HajinKimm/github-readme-stats)
 
-
+[![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HajinKimm&hide=stars)](https://github.com/HajinKimm/github-readme-stats)
 
 
 
