@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello✋%20%20I'm%20Hajin&fontSize=70&fontAlignY=40)
 
 안녕하세요! 회사와 함께 발전하고 싶은 열정있는 프론트엔드 신입개발자입니다!
-<a href="(https://hajinkimm.github.io/portfolio/dist/)">PORTFOLIO 바로가기</a></p>
+
+
+<a href="https://hajinkimm.github.io/portfolio/dist/">PORTFOLIO</a></p>
 
 📚 Studying
 
