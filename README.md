@@ -11,7 +11,7 @@
 
 📚 Tools
 
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/slack-181717?style=flat-square&logo=slack&logoColor=ffffff"/> <img src="https://img.shields.io/badge/notion-181717?style=flat-square&logo=notion&logoColor=ffffff"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajinKimm&layout=compact&min-height=170)](https://github.com/HajinKimm/github-readme-stats)
 
