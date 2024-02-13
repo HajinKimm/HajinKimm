@@ -15,7 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajinKimm&layout=compact&min-height=170)](https://github.com/HajinKimm/github-readme-stats)
 
-[![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HajinKimm&hide=stars)](https://github.com/HajinKimm/github-readme-stats)
 
 
 
